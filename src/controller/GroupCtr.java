@@ -1,5 +1,7 @@
 package controller;
 
-public class GroupCtr {
+import db.GroupDBIF;
 
+public class GroupCtr {
+	private GroupDBIF groupDB;
 }

@@ -1,5 +1,9 @@
 package controller;
 
-public class PersonGroupCtr {
+import model.Person;
 
+public class PersonGroupCtr {
+	private Person p;
+	
+	
 }

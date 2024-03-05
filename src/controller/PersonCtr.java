@@ -1,5 +1,8 @@
 package controller;
 
-public class PersonCtr {
+import db.PersonDBIF;
 
+public class PersonCtr {
+	private PersonDBIF personDB;
+	
 }
